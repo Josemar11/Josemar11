@@ -29,8 +29,10 @@ Procuro pensar que cada me dia oferece uma oportunidade para aprender algo novo,
             
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
+            
+            
           
-          
+## Estou aprendendo<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>          
             
           
           
