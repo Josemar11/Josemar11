@@ -8,7 +8,7 @@ No momento amplio meus conhecimentos estudando Desenvolvimento Web e Cloud compu
           
             
             
-## Estou aprendendo<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+## Aprendendo<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
             
                   
             
