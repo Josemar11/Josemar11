@@ -1,6 +1,10 @@
 ### Olá, meu nome é Josemar! 👋
 
-No momento amplio meus conhecimentos estudando Desenvolvimento Web e Cloud computing.
+Sou formado em Engenharia e aluno de Certified Tech Developer, Tecnologia da Informação.
+
+Amo estudar a área Tech e tenho como objetivo é seguir carreira como Desenvolvedor Back End, e contribuir com a comunidade de tecnologia. Não me limito apenas a uma tecnologia, e procuro aprender sobre CI/CD, Testes de Software, Banco de dados e Cloud Computing.
+
+Fico a disposição para seu contato.
 
 
 
