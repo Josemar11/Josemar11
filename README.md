@@ -4,8 +4,6 @@ Sou formado em Engenharia e aluno de Certified Tech Developer, Tecnologia da Inf
 
 Gosto muito de estudar a área Tech e tenho como objetivo me aprofundar cada vez mais em Desenvolvimento Back End.
 
-Fico a disposição para fazer networking.
-
 
 
 ## Ferramentas e Tecnologias:
