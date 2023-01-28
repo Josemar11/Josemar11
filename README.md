@@ -2,7 +2,7 @@
 
 Sou formado em Engenharia e aluno de Certified Tech Developer, Tecnologia da Informação.
 
-Gosto muito de estudar a área Tech e tenho como objetivo me aprofundar cada vez mais em Desenvolvimento Back End.
+Gosto muito de estudar a área Tech e tenho como objetivo me aprofundar cada vez mais meus conhecimentos em Desenvolvimento Back End.
 
 
 
