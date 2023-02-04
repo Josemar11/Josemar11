@@ -1,4 +1,4 @@
-### Hi everybody, Welcome.! 👋
+### Hi everybody, Welcome! 👋
 
 I'm study Web Development and Cloud Computing.
 
