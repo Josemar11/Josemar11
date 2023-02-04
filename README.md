@@ -1,4 +1,4 @@
-### Olá, meu nome é Josemar! 👋
+### Olá! 👋
 
 Sou formado em Engenharia e aluno de Certified Tech Developer, Tecnologia da Informação.
 
